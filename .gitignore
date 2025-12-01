@@ -1,0 +1,14 @@
+# Unreal Engine Ignore Rules
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+.vscode/
+.vs/
+*.sln
+*.xcodeproj
+*.opensdf
+*.sdf
+*.suo
